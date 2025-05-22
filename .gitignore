@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .idea
 *.DS_Store
 # protection du fichier de configuration de production
@@ -5,3 +6,11 @@ config-prod.php
 # protection du fichier de configuration de tests
 config-test.php
 
+=======
+# PHPStorm
+.idea/
+# Mac
+*.DS_Store
+# fichier de configuration de prod
+config-prod.php
+>>>>>>> 0a4bee0dfeffec105d6331cfe284227c25568588
